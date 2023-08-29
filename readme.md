@@ -30,7 +30,7 @@ install.packages("factoextra")
    cd ease-of-business-kmeans-clustering
    ```
 
-3. Run the R script `clustering.R` in your R environment or RStudio.
+3. Run the R script `EaseOfBusinessRatingKmeansClustering.R` in your R environment or RStudio.
 
 ## Description
 
